@@ -1,2 +1,2 @@
 # Speaker-Identification
-Voice classification using MATLAB and the mel spectrogram.
+Voice classification is performed using MATLAB and a mel spectrogram analysis.
